@@ -1,5 +1,7 @@
 
-body {
+body
+
+{
   margin-top: 30px;
 }
 
@@ -13,8 +15,14 @@ h1.title {
 
   padding: 20px 30px 50px 0;
 }
+h1 {
+    background-color: lightblue;
+}
 h2 {
   font-size: 22px;
+}
+h2 {
+    background-color: lightblue;
 }
 .rating {
   font-size: 0.4em;
